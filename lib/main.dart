@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:sensors_plus/sensors_plus.dart';
 import 'package:wireless_steering/screens/homepage.dart';
+import 'package:wireless_steering/screens/steering.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
